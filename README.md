@@ -10,7 +10,7 @@ This chatbot allows users to interact with a medical knowledge base sourced from
 
 ---
 
-## 🧠 Key Components
+## Key Components
 
 - **LangChain** for orchestrating LLM + vector retrieval.
 - **HuggingFace SentenceTransformer** model for local embeddings.
@@ -30,7 +30,7 @@ Ask questions like:
 
 The system will retrieve relevant info from the PDF documents and generate concise, reliable answers.
 
-## ⚙️ How to Recreate This Project
+## How to Recreate This Project
 
 1. **Ensure `uv` is installed**:
    Use the UV package manager to ensure isolated and reproducible dependency management.
